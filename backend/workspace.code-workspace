@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"name": "jwt_login",
+		"path": "../jwt_login"
+	}
+],
+  "settings": {}
+}
